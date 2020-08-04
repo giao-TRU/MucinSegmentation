@@ -14,7 +14,7 @@
    
 ## Run a test case
 
-    $> python GAUS.py --slide <your mxsr file>
+    $> python GAUS.py --slide <your mrxs file>
 
 
 ## Example of result
