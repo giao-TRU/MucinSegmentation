@@ -16,8 +16,6 @@ from openslide import open_slide
 from matplotlib import pyplot as plt
 from GPUtil import showUtilization as gpu_usage
 
-from loss import NCutLoss2D, OpeningLoss2D
-
 
 from pkg_resources import resource_stream
 from PIL import Image
