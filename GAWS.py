@@ -54,7 +54,7 @@ parser.add_argument('--compactness', metavar='C', default=50, type=float,
                     help='compactness of superpixels')
 parser.add_argument('--slide', metavar='FILENAME',
                     help='input image file name', required=True)
-parser.add_argument('--level', metavar='level', default=8, type=int,
+parser.add_argument('--level', metavar='level', default=6, type=int,
                     help='level of WSI')
 parser.add_argument('--input', metavar='FILENAME',
                     help='input image file name')
