@@ -14,7 +14,7 @@
    
 ## Run a test case
 
-    $> python GAUS.py --slide <your mrxs file>
+    $> python GAWS.py --slide <your mrxs file>
 
 
 ## Example of result
